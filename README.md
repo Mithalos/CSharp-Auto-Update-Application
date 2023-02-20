@@ -16,5 +16,5 @@
 <p align="center">Raw From Gist To Get Raw Link</p>
 
 <h1 align="center">
-  <img src="Image/Github_Gist.png" height="350px">
+  <img src="Image/Github_Gist_Raw.png" height="350px">
 </h1>
