@@ -18,3 +18,12 @@
 <h1 align="center">
   <img src="Image/Github_Gist_Raw.png" height="275px">
 </h1>
+
+<p align="center">Raw From Gist To Get Raw Link</p>
+
+<h1 align="center">
+  <img src="Image/Github_Gist_Raw_Link_Copy.png" height="150px">
+</h1>
+
+
+
