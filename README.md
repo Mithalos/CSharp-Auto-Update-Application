@@ -31,5 +31,10 @@
   <img src="Image/Version_For_Update.png" width="1200px">
 </h1>
 
+<p align="center">The Build Version We Get The Application Version And Increase The Version According To It</p>
+
+<h1 align="center">
+  <img src="Image/Application_Version.png">
+</h1>
 
 
