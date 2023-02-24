@@ -37,10 +37,23 @@
   <img src="Image/Application_Version.png">
 </h1>
 
-<p align="center">The application downloads the new version and installs and runs the new version by stopping and deleting the old application</p>
+<p align="center">Application Before Running Normal Version</p>
+
+<h1 align="center">
+  <img src="Image/Aplication_Old_Version.png">
+</h1>
+
+<p align="center">Checking the App Version and Preparing for the New Version</p>
 
 <h1 align="center">
   <img src="Image/Application_Update.png">
 </h1>
+
+<p align="center">The application downloads the new version and installs and runs the new version by stopping and deleting the old application</p>
+
+<h1 align="center">
+  <img src="Image/Application_New_Version.png">
+</h1>
+
 
 
