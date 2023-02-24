@@ -37,10 +37,10 @@
   <img src="Image/Application_Version.png">
 </h1>
 
-<p align="center">The Build Version We Get The Application Version And Increase The Version According To It</p>
+<p align="center">The application downloads the new version and installs and runs the new version by stopping and deleting the old application</p>
 
 <h1 align="center">
-  <img src="Image/Application_New_Version.png">
+  <img src="Image/Application_Update.png">
 </h1>
 
 
